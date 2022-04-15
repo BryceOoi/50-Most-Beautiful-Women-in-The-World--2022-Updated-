@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie ie6" xmlns:fb="http://ogp.me/ns/fb#"><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="no-js ie ie7" xmlns:fb="http://ogp.me/ns/fb#"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie ie8" xmlns:fb="http://ogp.me/ns/fb#"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie ie9" xmlns:fb="http://ogp.me/ns/fb#"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" class="no-js" xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+<head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5123781257468033"
+     crossorigin="anonymous"></script>
+    <meta name="google-site-verification" content="N-euAkfHicwwli42-TKm_1k4RxM4BAyN3V3tP7qeEZs" />
+    <meta charset="utf-8">
+    <meta name="description" content="Women in the World is a movement dedicated to advancing women and girls through stories and solutions.">
+    <meta property="og:description" content="Women in the World is a movement dedicated to advancing women and girls through stories and solutions.">
+        <meta property="og:image" content="http://womenintheworld.org/page/-/wrapper/main/logo.png">
+    <meta name="google-site-verification" content="ybLfCnVdbOe1fzxsfHqzcqsmvqxL9tVH4yqQUwnTIeA"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+            <title>Women in the World Foundation</title>
+    <link rel="shortcut icon" href="page/-/wrapper/main/witw_icon_64x64.png">
+    <link rel="apple-touch-icon" href="page/-/wrapper/main/witw_icon_128x128.png">
+    <link rel="stylesheet" href="_css_styles/index.css">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://womenintheworld.org/stories/rss">
+    <script src="ajax/libs/jquery/1-7-1/jquery.min.js"></script>
+    <script type="text/javascript" src="page/-/js/source.js"></script>
+    <script type="text/javascript" src="jck5jvd.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <!-- blue_source_tracking enabled -->
+    <!-- START Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25307453-1']);
+        _gaq.push(['_setDomainName', 'womenintheworld.org']);
+        _gaq.push(['_trackPageLoadTime']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- END Google Analytics -->
+</head>
+<body id="home">
+    <div id="container">
+        <header class="clearfix">
+                        <nav class="clearfix">
+                <div class="container">
+                    <ul class="menu clearfix">
+                        <li class="home"><a href="/" title="Home">Home</a></li>
+                        <li class="about"><a href="pages/about/" title="About">About</a></li>
+                                                <li class="blog"><a href="blog/" title="Blog">Blog</a></li>
+
+                        <li class="stories"><a href="stories/" title="Stories">Stories</a></li>
+                        <li class="solutions"><a href="solutions/" title="Solutions">Solutions</a></li>
+                        <li class="involved"><a href="pages/get-involved/" title="Get Involved">Get Involved</a></li>
+                        <li class="campus"><a href="pages/women-in-the-world-on-campus/" title="Women in the World on Campus">Campus</a></li>
+                        <li class="brazil"><a href="brazil/" title="Brazil">Brazil</a></li>
+                        <li class="events"><a href="pages/events/" title="Events">Events</a></li>
+                    </ul><!-- /.menu -->
+                    <form id="site-search" class="search clearfix" method="get" action="search/">
+    <fieldset>
+        <legend class="visuallyhidden">Search This Site</legend>
+        <input name="q" id="site-search-text" type="text" placeholder="search this site"/>
+        <input name="sa" id="site-search-submit" type="submit"/>
+    </fieldset>
+</form><!-- /.search -->
+                    <ul class="socnet clearfix">
+                        <li class="facebook"><a href="https://www.facebook.com/WOMENinWORLD?sk=wall" title="Add Us on Facebook">Add Us on Facebook</a></li>
+                        <li class="twitter"><a href="https://twitter.com/WomenInWorld" title="Follow Us on Twitter">Follow Us on Twitter</a></li>
+                    </ul><!-- /.socnet -->
+                </div><!-- /.container -->
+            </nav>
+            <div class="container">
+                <div id="tagline">
+                    <em>Where</em> Solutions<br/>Meet <em>the</em> Spotlight
+                </div><!-- /.tagline -->
+                <a href="/" title="Women in the World Foundation" id="logo">Women in the World Foundation</a><!-- /#logo -->
+                <form id="qksignup" class="clearfix" method="post" action="page/s/signup1/">
+                    <fieldset>
+                        <legend>Stay Updated</legend>
+                        <input id="qksignup-email" type="email" name="email" placeholder="email"/>
+                        <input id="qksignup-zip" type="text" name="zip" placeholder="zip"/>
+                        <input id="qksignup-submit" type="submit" value="Go"/>
+                    </fieldset>
+                </form><!-- /#qksignup -->
+                <div id="header-facebook" class="socnet clearfix">
+                    <fb:like href="https://facebook.com/WOMENinWORLD" send="true" width="310" show_faces="false" font="lucida grande"></fb:like>
+                </div><!-- /.socnet -->
+            </div><!-- /.container -->
+                                </header>
+        <div id="main" role="main" class="container clearfix">
+<div id="lightbox">
+    <form id="lightbox-signup-form" class="clearfix" method="post" action="http://womenintheworld.org/page/s/lightbox">
+        <fieldset>
+            <legend><span>Join our community and be a part of the conversation.</span></legend>
+            <input type="text" name="firstname" id="lightbox-signup-fname" placeholder="First Name"/>
+            <input type="text" name="lastname" id="lightbox-signup-lname" placeholder="Last Name"/>
+            <input type="email" name="email" id="lightbox-signup-email" placeholder="Email Address"/>
+            <input type="text" name="zip" id="lightbox-signup-zip" placeholder="Zip/Postal Code"/>
+            <input type="submit" name="submit-btn"/>
+        </fieldset>
+    </form>
+</div><!-- /#lightbox -->
+    <section id="feature">
+        <div class="container">
+            <div id="slider">
+                <div class="entry">
+                    <a href="pages/next-generation-leadership-academy/" title="15 Quotes That Will Change Your Life: The Most Inspiring Lessons from the Next Generation Leadership" class="image"><img src="page/-/images/feature/NGLAquotes_2.png" alt="15 Quotes That Will Change Your Life: The Most Inspiring Lessons from the Next Generation Leadership"/></a>
+                    <div class="text">
+                        <h5></h5>
+                        <h4><a href="pages/next-generation-leadership-academy/" title="15 Quotes That Will Change Your Life: The Most Inspiring Lessons from the Next Generation Leadership">15 Quotes That Will Change Your Life: The Most Inspiring Lessons from the Next Generation Leadership</a></h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+                <div class="entry">
+                    <a href="pages/next-generation-leadership-academy/" title="Where Young Women Learn to Lead: Our First-Ever Academy for the Next Generation of Achievers" class="image"><img src="page/-/images/feature/nextgen.png" alt="Where Young Women Learn to Lead: Our First-Ever Academy for the Next Generation of Achievers"/></a>
+                    <div class="text">
+                        <h5></h5>
+                        <h4><a href="pages/next-generation-leadership-academy/" title="Where Young Women Learn to Lead: Our First-Ever Academy for the Next Generation of Achievers">Where Young Women Learn to Lead: Our First-Ever Academy for the Next Generation of Achievers</a></h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+                <div class="entry">
+                    <a href="stories/entry/five-companies-helping-women/" title="Five Companies Helping Women: When the Goal is More than Just Dollars" class="image"><img src="page/-/images/feature/sponsors.png" alt="Five Companies Helping Women: When the Goal is More than Just Dollars"/></a>
+                    <div class="text">
+                        <h5></h5>
+                        <h4><a href="stories/entry/five-companies-helping-women/" title="Five Companies Helping Women: When the Goal is More than Just Dollars">Five Companies Helping Women: When the Goal is More than Just Dollars</a></h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+                <div class="entry">
+                    <a href="stories/entry/egypts-women-were-baaaack/" title="Egypt�s Women: We�re Baaaack and We Won�t Get Fooled Again" class="image"><img src="page/-/images/feature/egypt.png" alt="Egypt�s Women: We�re Baaaack and We Won�t Get Fooled Again"/></a>
+                    <div class="text">
+                        <h5></h5>
+                        <h4><a href="stories/entry/egypts-women-were-baaaack/" title="Egypt�s Women: We�re Baaaack and We Won�t Get Fooled Again">Egypt’s Women: We’re Baaaack and We Won’t Get Fooled Again</a></h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+                <div class="entry">
+                    <img src="page/-/images/feature/malalaUN.png" alt="Malala Speaks to UN: Pakistani Teen Hero Appears on Her 16th Birthday"/>
+                    <div class="text">
+                        <h5></h5>
+                        <h4>Malala Speaks to UN: Pakistani Teen Hero Appears on Her 16th Birthday</h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+                <div class="entry">
+                    <a href="preview/stories/score-one-for-these-mothers-of-invention/" title="Score One for These Mothers of Invention" class="image"><img src="page/-/images/feature/soccket.png" alt="Score One for These Mothers of Invention"/></a>
+                    <div class="text">
+                        <h5></h5>
+                        <h4><a href="preview/stories/score-one-for-these-mothers-of-invention/" title="Score One for These Mothers of Invention">Score One for These Mothers of Invention</a></h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+                <div class="entry">
+                    <a href="stories/entry/takeaways-to-live-by/" title="Words to Live By: When Women Get Together, The Advice is Always Amazing" class="image"><img src="page/-/images/feature/reshma1.png" alt="Words to Live By: When Women Get Together, The Advice is Always Amazing"/></a>
+                    <div class="text">
+                        <h5></h5>
+                        <h4><a href="stories/entry/takeaways-to-live-by/" title="Words to Live By: When Women Get Together, The Advice is Always Amazing">Words to Live By: When Women Get Together, The Advice is Always Amazing</a></h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+                <div class="entry">
+                    <a href="preview/stories/turkey-in-turmoil-its-a-womens-thing/" title="Turkey in Turmoil: It�s a Women�s Thing" class="image"><img src="page/-/images/feature/turkey_1.png" alt="Turkey in Turmoil: It�s a Women�s Thing"/></a>
+                    <div class="text">
+                        <h5></h5>
+                        <h4><a href="preview/stories/turkey-in-turmoil-its-a-womens-thing/" title="Turkey in Turmoil: It�s a Women�s Thing">Turkey in Turmoil: It’s a Women’s Thing</a></h4>
+                    </div><!-- /.text -->
+                </div><!-- /.entry -->
+            </div><!-- /#slider -->
+        </div>
+        <div id="slider-nav">
+            <div class="prev nav">
+                <a class="box" href="#" title="Previous">Previous</a>
+                <a class="arrow" href="#" title="Previous">Previous</a>
+            </div><!-- /.next -->
+            <div class="next nav">
+                <a class="box" href="#" title="Next">Next</a>
+                <a class="arrow" href="#" title="Next">Next</a>
+            </div><!-- /.next -->
+        </div>
+    </section><!-- /#feature -->
+    <section id="home-content" class="clearfix">
+        <div class="column left">
+            <div id="home-tracks" class="block">
+                <h2>Know the Issues</h2>
+                <h3>Stories and Solutions</h3>
+                <ul>
+                    <li><a href="solutions/track/culture-and-media/" title="Culture and Media">Culture <em>and</em> Media</a></li>
+                    <li><a href="solutions/track/economic-opportunity/" title="Economic Opportunity">Economic Opportunity</a></li>
+                    <li><a href="https://womenintheworld.org/richest-women/" title="Richest Women">Richest Women List</a></li>
+
+                    <li><a href="solutions/track/education/" title="Education">Education</a></li>
+                    <li><a href="solutions/track/environment/" title="Environment">Environment</a></li>
+                    <li><a href="solutions/track/health/" title="Health and Well-Being">Health <em>and</em> Well-Being</a></li>
+                    <li><a href="solutions/track/innovation/" title="Innovation">Innovation</a></li>
+                    <li><a href="solutions/track/law-and-justice/" title="Law and Justice">Law <em>and</em> Justice</a></li>
+                    <li><a href="solutions/track/politics-and-leadership/" title="Politics and Leadership">Politics <em>and</em> Leadership</a></li>
+                    <li><a href="solutions/track/science-and-technology/" title="Science and Technology">Science <em>and</em> Technology</a></li>
+                    <li><a href="solutions/track/violence-against-women/" title="Violence Against Women">Violence <em>Against</em> Women</a></li>
+                    <li><a href="solutions/track/war-and-peace/" title="War and Peace">War <em>and</em> Peace</a></li>
+                    <li><a href="https://www.thomsonshore.com/grammarly-premium-free-trial/" title="Grammarly Premium Free Trial 2021">Grammarly Premium <em>Free Trial</em> 2022</a></li>
+
+                </ul>
+            </div><!-- /#home-tracks -->
+                        <div id="stats" class="base block">
+                <h2>Quick Stat</h2>
+                <div class="entry">
+                    <a href="solutions/track/" title="" class="image"><img src="page/-/images/stats/quickstats_brides1.png" alt=""/></a>
+                    <div class="text">
+                        <h5></h5>
+                                            </div><!-- /.text -->
+                </div><!-- /.entry -->
+            </div><!-- /#stats -->
+                        <div id="partners" class="block">
+                <h3>Learn About</h3>
+                <h2>Our Mission</h2>
+                <ul id="mission-list">
+                    <li>
+                        <h4>
+                            <a href="pages/women-of-impact/" title="The Women of Impact Award Series">The Women <em>of</em> Impact Award Series</a>
+                        </h4>
+                    </li>
+                    <li>
+                        <h4>
+                            <a href="pages/women-in-the-world-on-campus/" title="Women in the World Next Generation">Women <em>in the</em> World Next Generation</a>
+                        </h4>
+                    </li>
+                </ul>
+            </div><!-- /#partners -->
+        </div><!-- /.column.left -->
+        <div class="column middle">
+            <div id="cheat-sheet">
+                <div class="logo">
+                    <h2><a href="cheat-sheet/" title="Cheat Sheet">Cheat Sheet</a></h2>
+                    <h3 class="visuallyhidden">Must Reads from across the Women's Space</h3>
+                </div><!-- /.logo -->
+                <div class="container">
+                    <ul>
+                        <li>
+                <h5><span class="count">1.</span>Go with the flow</h5>
+                            <h4><a href="cheat-sheet/entry/who-knew-a-tampon-could-save-lives/" title="Who knew a tampon could save lives?">Who knew a tampon could save lives?</a></h4>
+                                                        <p class="more"><a href="cheat-sheet/entry/who-knew-a-tampon-could-save-lives/" title="Groups tackle taboos surrounding menstruation that are holding women back in India �">Groups tackle taboos surrounding menstruation that are holding women back in India</a></p>
+                        </li>
+                        <li>
+                <h5><span class="count">2.</span>Busted</h5>
+                            <h4><a href="cheat-sheet/entry/fbi-rescues-child-prostitutes/" title="FBI rescues child prostitutes">FBI rescues child prostitutes</a></h4>
+                                                        <p class="more"><a href="cheat-sheet/entry/fbi-rescues-child-prostitutes/" title="Scores of pimps arrested, too �">Scores of pimps arrested, too</a></p>
+                        </li>
+                        <li>
+                <h5><span class="count">3.</span>Anime Antics</h5>
+                            <h4><a href="cheat-sheet/entry/burka-avenger-cool-or-controversial/" title="Burka Avenger: Cool or controversial?">Burka Avenger: Cool or controversial?</a></h4>
+                                                        <p class="more"><a href="cheat-sheet/entry/burka-avenger-cool-or-controversial/" title="New Pakastani children's cartoon heroine stirs debate �">New Pakastani children's cartoon heroine stirs debate</a></p>
+                        </li>
+                        <li>
+                <h5><span class="count">4.</span>Tokyo Story</h5>
+                            <h4><a href="cheat-sheet/entry/caroline-kennedy-appointment-expected-to-help-japanese-women/" title="Caroline Kennedy appointment expected to help Japanese women">Caroline Kennedy appointment expected to help Japanese women</a></h4>
+                                                        <p class="more"><a href="cheat-sheet/entry/caroline-kennedy-appointment-expected-to-help-japanese-women/" title="As new U.S. Ambassador, Kennedy would be a visible role model overseas �">As new U.S. Ambassador, Kennedy would be a visible role model overseas</a></p>
+                        </li>
+                    </ul>
+                    <a href="cheat-sheet/" title="Full Cheat Sheet" class="all">Full Cheat Sheet</a>
+                </div><!-- /.container -->
+            </div><!-- /#cheat-sheet -->
+                            <div class="woman base block">
+                    <h2>Woman of the Week</h2>
+                    <h3>This Week's Game Changer</h3>
+                    <div class="entry">
+                        <figure>
+                            <a href="stories/entry/having-a-ball-mary-mcveighs-tips-on-soccer-and-life/" title="Having a Ball: Mary McVeigh�s Tips on Soccer and Life"><img src="page/-/images/stories/mcveigh_1.png" alt="Having a Ball: Mary McVeigh�s Tips on Soccer and Life"/></a>
+                        </figure>
+                        <div class="text">
+                            <h5>Education, Health and Well-Being</h5>
+                            <h4>
+                                <a href="stories/entry/having-a-ball-mary-mcveighs-tips-on-soccer-and-life/" title="Having a Ball: Mary McVeigh�s Tips on Soccer and Life">Having a Ball: Mary McVeigh’s Tips on Soccer and Life</a>
+                                                            </h4>
+                                                    </div><!-- /.text -->
+                    </div><!-- /.entry -->
+                <a href="wotw/" title="View Archive" class="more">View Archive</a>
+                </div><!-- /#woman -->
+            <div id="home-facebook"><fb:like-box href="http://www.facebook.com/WOMENinWORLD" width="360" height="300" show_faces="true" stream="true" header="true"></fb:like-box></div>
+        </div><!-- /.column.middle -->
+        <div class="column right">
+            <div id="spent" class="base block">
+    <h2><a href="http://www.solarsister.org/donate" title="Light Up a Girl�s Life" target="_blank">$10 Well Spent</a></h2>
+    <div class="entry">
+        <a href="http://www.solarsister.org/donate" title="Light Up a Girl�s Life" class="image">
+        	<img src="page/-/images/well-spent/solarsister.png" alt="Light Up a Girl�s Life"/></a>
+        <div class="text">
+            <h4>
+               <a href="http://www.solarsister.org/donate" title="Light Up a Girl�s Life" target="_blank">Light Up a Girl’s Life</a>
+            </h4>
+                        <p>Got a light? The answer in much of the developing world is "no"—and with no electricity available, residents have to turn to expensive and unhealthy kerosene for illumination. But <a href="http://www.solarsister.org/">Solar Sister</a> is working to change that. The nonprofit helps rural African women become entrepreneurs by providing them with clean energy alternatives, such as solar panels, to sell to their community. One success story: Zuura (above), from Ghana, who earned enough money to put herself through nursing school. Your $10 buys a light to donate through a schools initiative, meaning a motivated student can keep studying long after the sun goes down. Donate <a href="http://www.solarsister.org/donate">here</a>.</p>
+                    </div><!-- /.text -->
+    </div><!-- /.entry -->
+</div><!-- /#spent -->
+            <div class="events base block">
+    <h1>Events</h1>
+    <ul class="events-module">
+        <li class="entry clearfix">
+            <span class="date">
+                <span class="month">Aug</span>
+                <span class="day">05</span>
+                <span class="year">2013</span>
+            </span><!-- /.date -->
+            <span class="text">
+                <h5>Conference</h5>
+                <h2><a href="page/event/detail/conference/wrwj/" title="Indiana Girls Collaborative Project Collaboration Forum">Indiana Girls Collaborative Project Collaboration Forum</a></h2>
+            </span><!-- /.text -->
+        </li><!-- /.entry -->
+<li class="entry clearfix">
+            <span class="date">
+                <span class="month">Aug</span>
+                <span class="day">08</span>
+                <span class="year">2013</span>
+            </span><!-- /.date -->
+            <span class="text">
+                <h5>Conference</h5>
+                <h2><a href="page/event/detail/conference/wrwb/" title="Women's Leadership Conference  Las Vegas 2013">Women's Leadership Conference  Las Vegas 2013</a></h2>
+            </span><!-- /.text -->
+        </li><!-- /.entry -->
+<li class="entry clearfix">
+            <span class="date">
+                <span class="month">Aug</span>
+                <span class="day">28</span>
+                <span class="year">2013</span>
+            </span><!-- /.date -->
+            <span class="text">
+                <h5>Conference</h5>
+                <h2><a href="page/event/detail/conference/w73/" title="2013 Women In Green Forum - West Coast Forum " driving innovation through leadership"">2013 Women In Green Forum - West Coast Forum "Driving Innovation Through Leadership"</a></h2>
+            </span><!-- /.text -->
+        </li><!-- /.entry -->
+    </ul>
+    <a href="pages/events/" class="more">View All</a>
+</div>
+                        <div id="action" class="block">
+                <h2>Take Action</h2>
+                <h3>Ways to Get Involved Today</h3>
+                <a href="page/share/taf/" title="Spread the Word: Tell 5 Friends About Us" class="spread">Spread the Word: Tell 5 Friends About Us</a>
+                        <form id="solutions-search" class="search clearfix" name="solutions-search-form" method="post" action="/">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="5"/>
+<input type="hidden" name="XID" value=""/>
+<input type="hidden" name="RES" value="10"/>
+<input type="hidden" name="meta" value="2HnG1AMCR44cV3FafQRsQfPXCVnjnlOogbDelSYwMvq13ET5MVn8fzhDJF1NBXiKvEl6M8VHsZYtDUX0zX8INgZaWr4NdRdhohaE3nrQ+tsUHntywfNJlFBgtDJKbfOXpb17AnmmeHYGJxk2Sr/umx9qHlvL97WsboLt+gaHc9mceCgMmJw6ol8GZ4QKw0XMqXh/bm3djHs7Pvo7NXFUjvkFbjlw59Sc4AFtZJ0WaO9OX4rGS6Ss2OfgUuILZEiRyLge1+CaPJr/Vru+w6ImIbsCoixxK64/a2dp2lSZgQJ6pv3ImSAPCw5I4Tohnh9uumJLi+6nxMjRuz/Mj2Cpu2tngVkLfj+GKQqin8t0ItkkWrf2ND+3smekH+iWxNwr"/>
+<input type="hidden" name="site_id" value="1"/>
+</div>
+            <fieldset>
+                <legend><a href="solutions/" title="Find a Solution: Search Hundreds of Organizations">Find a Solution: Search the Organizations</a></legend>
+                <div class="container">
+                    <input type="text" name="keywords" class="solutions-search-text" placeholder="find a solution"/>
+                    <input type="submit" class="solutions-search-submit" value="Go"/>
+                </div><!-- /.container -->
+            </fieldset>
+        </form>
+            </div><!-- /#action -->
+        </div><!-- /.column.right -->
+    </section><!-- /#home-content -->
+        </div><!-- /#main -->
+        <div id="copyright" class="container">&copy; 2022 Women in the World Foundation &bull; <a href="pages/privacy-policy/">Privacy Policy</a> &bull; <a href="pages/terms-of-use/">Terms of Use</a></div><!-- /#copyright.container -->
+    </div> <!-- /#container-->
+    <footer>
+        <nav>
+            <div class="container clearfix">
+                <ul class="menu clearfix">
+                    <li class="home"><a href="/" title="Home">Home</a></li>
+                    <li class="about"><a href="pages/about/" title="About">About</a></li>
+                    <li class="stories"><a href="stories/" title="Stories">Stories</a></li>
+                    <li class="solutions"><a href="solutions/" title="Solutions">Solutions</a></li>
+                    <li class="involved"><a href="pages/get-involved/" title="Get Involved">Get Involved</a></li>
+                    <li class="campus"><a href="pages/women-in-the-world-on-campus/" title="Women in the World on Campus">Campus</a></li>
+                    <li class="brazil"><a href="brazil/" title="Brazil">Brazil</a></li>
+                    <li class="events"><a href="pages/events/" title="Events">Events</a></li>
+                </ul><!-- /.menu -->
+                <ul class="socnet clearfix">
+                    <li class="facebook"><a href="https://www.facebook.com/WOMENinWORLD?sk=wall" title="Add Us on Facebook">Add Us on Facebook</a></li>
+                    <li class="twitter"><a href="https://twitter.com/WomenInWorld" title="Follow Us on Twitter">Follow Us on Twitter</a></li>
+                </ul><!-- /.socnet -->
+            </div><!-- /.container -->
+        </nav>
+                        <div id="sponsors">
+            <ul class="container clearfix">
+                <li class="heading">Founding Partners</li>
+                <li class="aglobal"><a href="http://www.grupoabc.com/" title="Africa Global">Africa Global</a></li>
+                <li class="ffoundation"><a href="http://www.fordfoundation.org/" title="The Ford Foundation">The Ford Foundation</a></li>
+                <li class="rfoundation"><a href="http://www.rockefellerfoundation.org/" title="The Rockefeller Foundation">The Rockefeller Foundation</a></li>
+                <li class="heading">Fiscal Sponsor</li>
+                <li class="rphilanthropy"><a href="http://www.rockpa.org/" title="Rockefeller Philanthropy Advisors">Rockefeller Philanthropy Advisors</a></li>
+            </ul>
+        </div><!-- /#sponsors -->
+            </footer>
+    <script type="text/javascript" src="page/-/js/index.js"></script>
+    <script type="text/javascript" src="page/-/js/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="page/-/js/home.js"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "en_US/all.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>
